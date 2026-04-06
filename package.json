@@ -1,0 +1,13 @@
+{
+  "name": "cypress-demo-docker",
+  "version": "1.0.0",
+  "description": "Containerized Cypress Automation Framework for Herokuapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.7.0"
+  }
+}
