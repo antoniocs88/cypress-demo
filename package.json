@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "cypress-demo-docker",
   "version": "1.0.0",
   "description": "Containerized Cypress Automation Framework for Herokuapp",

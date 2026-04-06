@@ -1,4 +1,4 @@
-# Use a verified Cypress base image with Node.js
+﻿# Use a verified Cypress base image with Node.js
 FROM cypress/base:20.12.2
 
 # Set working directory
